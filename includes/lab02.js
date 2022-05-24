@@ -118,5 +118,6 @@ while (smogSize <= bangkokArea){
 }
 document.getElementById("full").innerHTML = `Fully envelop Bangkok in MINUTES: ${count}`;
 document.getElementById("half").innerHTML = `Half envelop Bangkok in MINUTES: ${half}`;
+// good afternoon...
 
 
